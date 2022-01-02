@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/SwaXTech](github.com/SwaXTech)
 
-- 📝 I regularly write my notes on [github.com/SwaXTech](https://github.com/stars/SwaXTech/lists/notes)
+- 📝 I regularly write my notes [here](https://github.com/stars/SwaXTech/lists/notes)
 
 - 📫 How to reach me **aherasimiuk@frba.utn.edu.ar**
 
