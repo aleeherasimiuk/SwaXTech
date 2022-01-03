@@ -60,3 +60,8 @@ Delibird is an Operating Systems project, in which we learned how to make a shar
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=Delibird-Sistemas-Operativos)](https://github.com/SwaXTech/Delibird-Sistemas-Operativos)
 
+# Detector de Plagio
+
+This is a plagiarism detector, in which I learned how to classify texts according to the topic, as well as how to identify those proper names that could potentially be the author of the work. I also learned how to preprocess texts and finally how to compare paragraphs and sentences to obtain their semantic closeness and detect possible plagiarism.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=Detector-de-Plagio)](https://github.com/SwaXTech/Detector-de-Plagio)
