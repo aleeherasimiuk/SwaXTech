@@ -30,4 +30,33 @@
 
 # Top Languages
 
-![TOP_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=SwaXTech&hide=Jupyter%20Notebook,prolog,makefile&langs_count=10)
+![TOP_LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=SwaXTech&hide=Jupyter%20Notebook,prolog,makefile,handlebars&langs_count=10)
+
+# Projects
+
+## Rescate De Patitas
+
+Rescate de patitas is an academic web project made in java + spark web + hibernate/jpa with the objective of learning:
+
+- Design Patterns
+- Rest API
+- HTTP Protocol
+- ORM based on JPA implementation
+- HTML Web Design with Handlebars and a CSS framework
+- Deployment
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=RescateDePatitas)](https://github.com/SwaXTech/RescateDePatitas)
+
+# Técnicas avanzadas de Programación
+
+In the TADP project I learned how to solve the most typical inheritance problems with the use of Mixins and Traits, as well as I learned how to use Metaprogramming, in this case, to implement an aspect-oriented programming framework. I also learned how to mix the object paradigm with the functional paradigm and other cool things like monads and variance.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=TecnicasAvanzadasDeProgramacion)](https://github.com/SwaXTech/TecnicasAvanzadasDeProgramacion)
+
+
+# Delibird
+
+Delibird is an Operating Systems project, in which we learned how to make a shared library, create a communication protocol, manage memory to avoid memory leaks, create a cache using Ram Memory concepts such as Dynamic/Fixed Partitioning and Buddy System, as well as memory compaction and the concepts of internal and external fragmentation. On the other hand, thread synchronization is implemented using schedulers such as SJF, Round Robin and FIFO, and finally an implementation of a File System to be able to persist data.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=Delibird-Sistemas-Operativos)](https://github.com/SwaXTech/Delibird-Sistemas-Operativos)
+
