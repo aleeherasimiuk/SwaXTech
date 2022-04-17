@@ -16,8 +16,76 @@
 
 - 📫 How to reach me **aherasimiuk@frba.utn.edu.ar**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+# Skills:
+
+## Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-22AA11?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+## Libraries / Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/jest-E34F26?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-E34F26?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-3776AB?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E34F26?style=for-the-badge&" />
+<img src="https://img.shields.io/badge/Express-CCEE00?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node-22AA11?style=for-the-badge&logo=node.js&logoColor=white" />
+<!--Pycord-->
+<img src="https://img.shields.io/badge/Pycord-E34F26?style=for-the-badge&logo=discord&logoColor=white" />
+
+</p>
+
+## Tools and platform
+
+<!-- vscode -->
+<p>
+<img src="https://img.shields.io/badge/visual_studio_code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/GoogleCloud-E34F26?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0084FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-3776AB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-E34F26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3776AB?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
+
+## Learning
+<p>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+ <img src="https://img.shields.io/badge/MongoDB-E34F26?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-007ACC?style=for-the-badge&logo=kotlin&logoColor=white" />
+  
+
+ </p>
+
+## Other cool technologies I have used
+
+<p>
+<!--Scala -->
+<img src="https://img.shields.io/badge/Scala-E34F26?style=for-the-badge&logo=scala&logoColor=white" />
+<!-- Ruby -->
+<img src="https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white" />
+<!-- Haskell -->
+<img src="https://img.shields.io/badge/Haskell-AA22DD?style=for-the-badge&logo=haskell&logoColor=white" />
+<!-- Swift -->
+<img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=swift&logoColor=white" />
+
+
+</p>
+
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaxtech&show_icons=true&theme=dark&locale=en&layout=compact" alt="swaxtech" /></p>
