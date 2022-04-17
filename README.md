@@ -65,3 +65,16 @@ Delibird is an Operating Systems project, in which we learned how to make a shar
 This is a plagiarism detector, in which I learned how to classify texts according to the topic, as well as how to identify those proper names that could potentially be the author of the work. I also learned how to preprocess texts and finally how to compare paragraphs and sentences to obtain their semantic closeness and detect possible plagiarism.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=Detector-de-Plagio)](https://github.com/SwaXTech/Detector-de-Plagio)
+
+
+# Gobstones
+
+This Haskell project is a simulation of the Gobstones programming language, with the aim of learning the functional paradigm. This work was part of the "Paradigmas de Programación" course.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=Gobstones)](https://github.com/SwaXTech/Gobstones)
+
+# Arch Linux Install Guide (WIP)
+
+This is my work in progress arch linux installation guide in Spanish. From the basics to configuring users and setting up a desktop environment. This is my favorite linux distribution for being a rolling release, and being highly customizable.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwaXTech&repo=Guia-de-Instalacion-de-Arch-Linux)](https://github.com/SwaXTech/Guia-de-Instalacion-de-Arch-Linux)
