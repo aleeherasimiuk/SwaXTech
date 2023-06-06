@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaxtech" alt="swaxtech" /></a> </p>
 -->
-- 🌱 I’m currently learning **MERN Stack for work & Python, Linux and Docker for Personal Projects**
+- 🌱 I’m currently learning **Spring 🌿**
 
 - 🤝 I’m looking for help to [complete my huge Arch Linux installation guide in Spanish.](https://github.com/SwaXTech/Guia-de-Instalacion-de-Arch-Linux)
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write my notes [here](https://github.com/stars/SwaXTech/lists/notes)
 
-- 📫 How to reach me **aherasimiuk@frba.utn.edu.ar**
+- 📫 How to reach me **aleeherasimiuk@gmail.com**
 
 # Skills:
 
@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-22AA11?style=for-the-badge&logo=android&logoColor=white" />
 </p>
@@ -40,7 +39,6 @@
 <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-E34F26?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-3776AB?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E34F26?style=for-the-badge&" />
 <img src="https://img.shields.io/badge/Express-CCEE00?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Node-22AA11?style=for-the-badge&logo=node.js&logoColor=white" />
 <!--Pycord-->
